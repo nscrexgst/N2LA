@@ -1,4 +1,4 @@
-##N2 Land Acquisition
+## N2 Land Acquisition
 
 Here, you can find links to common files used by the LA team
 
@@ -6,4 +6,4 @@ Here, you can find links to common files used by the LA team
 Notice of Taking query system that can be shareable to other teams like GRM.
 
 ### Google Sheets
-N2 LADB [NoT](https://docs.google.com/spreadsheets/d/1xWCTH6IZlfU1mJNngFADsCNo_QXUUYs_i-JF2fhM9n4/edit?usp=sharing)
+N2 LADB ([NoT](https://docs.google.com/spreadsheets/d/1xWCTH6IZlfU1mJNngFADsCNo_QXUUYs_i-JF2fhM9n4/edit?usp=sharing))
