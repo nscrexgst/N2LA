@@ -1,8 +1,13 @@
-## Welcome to N2 Land Acquisition Pages
+## Welcome to N2 Land Acquisition
 
 Here, you can find links to common files used by the LA team
 
+### Markdown
 [NOT Query System](https://datastudio.google.com/embed/u/0/reporting/3854d8f1-2490-4f9d-b054-6ee77b9369e6/page/bfsyB)
+
+Notice of Taking query system that can be shareable to other teams like GRM.
+```markdown
+
 You can use the [editor on GitHub](https://github.com/nscrexgst/N2LA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
